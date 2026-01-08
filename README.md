@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🌱 I’m currently a student in Data Science & AI at Tomorrow University.
+🌱 I’m currently a student in Data Science & AI at Tomorrow University.  
 🚀 Looking forward to learning and building future-orientied and purpose driven solutions. 
 
 <!--
