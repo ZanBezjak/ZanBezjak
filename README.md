@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 🌱 I’m currently a student in Data Science & AI at Tomorrow University.  
-🚀 Looking forward to learning and building future-orientied and purpose driven solutions. 
+🚀 Motivated to learn and to build future-orientied and purpose-driven solutions. 
 
 <!--
 **ZanBezjak/ZanBezjak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
