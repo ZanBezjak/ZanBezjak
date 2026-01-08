@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🌱 I’m currently a student in Data Science & AI at Tomorrow University.  
+🌱 I’m Žan and I'm a student in Data Science & AI at Tomorrow University.  
 🚀 Motivated to learn and to build future-orientied and purpose-driven solutions. 
 
 <!--
