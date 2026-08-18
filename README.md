@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-🌱 I’m Žan and I'm a student in Data Science & AI at Tomorrow University.  
-🚀 Motivated to learn and to build future-orientied and purpose-driven solutions. 
+🌱 I’m Žan and in 2026 I pivoted from Industrial Engineering & Management to ML Engineer and Data Scientist.  
+🚀 Motivated to build future-orientied and purpose-driven solutions. 
 
 <!--
 **ZanBezjak/ZanBezjak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
