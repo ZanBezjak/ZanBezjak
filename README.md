@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🌱 I’m Žan and in 2026 I pivoted from Industrial Engineering & Management to ML Engineer and Data Scientist.  
+🌱 I’m Žan and in 2026 I pivoted from Industrial Engineering & Management to ML Engineering and Data Science.  
 🚀 Motivated to build future-orientied and purpose-driven solutions. 
 
 <!--
