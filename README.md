@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **zbezjak5@gmail.com**
 
-- 📄 Know about my experiences **[https://1drv.ms/b/c/544e3b9f332eabca/IQBCQ91sywJyRK0vY2e7DjFGAVuH2mL-9dl5NIuYZgX2BWc?e=jHsJiA](https://1drv.ms/b/c/544e3b9f332eabca/IQBCQ91sywJyRK0vY2e7DjFGAVuH2mL-9dl5NIuYZgX2BWc?e=jHsJiA)**
+- 📄 Know about my experiences **[My CV](https://1drv.ms/b/c/544e3b9f332eabca/IQBCQ91sywJyRK0vY2e7DjFGAVuH2mL-9dl5NIuYZgX2BWc?e=jHsJiA)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
