@@ -1,7 +1,5 @@
 # Hi 👋, I'm Žan Bezjak
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ZanBezjak&label=Profile views&color=0e75b6&style=flat" alt="ZanBezjak" /> </p>
-
 - 🔭 I'm currently working on **a ML project to learn about longevity in Europe.**
 
 - 🌱 I'm currently learning **n8n and LangGraph**
